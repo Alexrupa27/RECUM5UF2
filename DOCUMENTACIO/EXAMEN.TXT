@@ -26,3 +26,10 @@ git push origin main
 git add .
 git commit -m "Versio 3"
 git push origin main
+
+-- VERSIO 4
+
+(fet amb entorn grafic pero es pot fer amb un mv)
+git add .
+git commit -m "Versio 4"
+git push origin main
