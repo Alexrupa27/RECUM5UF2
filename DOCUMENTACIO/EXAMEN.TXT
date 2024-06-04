@@ -51,9 +51,9 @@ git branch (revisar que esta feta)
 git checkout projecte
 git add .
 git commit -m "Versio 6"
-git push origin main
+git push origin projecte
 
 -- VERSIO 7
 
-
+Fet desde entorn grafic aceptan el pull request de projecte
 (no poso els cd ja que no trobo important marcar-ho)
