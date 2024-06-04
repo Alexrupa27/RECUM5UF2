@@ -1,0 +1,14 @@
+mkdir RECUM5UF2
+cd RECUM5UF2
+git init
+git add README.md
+git commit -m "Versio 1"
+git branch -M main
+git remote add origin https://github.com/Alexrupa27/RECUM5UF2.git
+git push -u origin main
+mkdir DOCUMENTACIO
+cd DOCUMENTACIO
+nano EXAMEN.TXT
+git add .
+git commit -m "Versio 1 acabat"
+git push -u origin main
