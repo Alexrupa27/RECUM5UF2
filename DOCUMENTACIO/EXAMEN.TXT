@@ -12,3 +12,9 @@ nano EXAMEN.TXT
 git add .
 git commit -m "Versio 1 acabat"
 git push -u origin main
+
+-- Versio 2
+
+git add .
+git commit -m "Versio 2"
+git push origin main
