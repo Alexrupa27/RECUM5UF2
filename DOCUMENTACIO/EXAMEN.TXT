@@ -13,8 +13,16 @@ git add .
 git commit -m "Versio 1 acabat"
 git push -u origin main
 
--- Versio 2
+-- VERSIO 2
 
+(fet amb entorn grafic pero es pot fer amb un mv)
 git add .
 git commit -m "Versio 2"
+git push origin main
+
+-- VERSIO 3
+
+(fet amb entorn grafic pero es pot fer amb un mv)
+git add .
+git commit -m "Versio 3"
 git push origin main
