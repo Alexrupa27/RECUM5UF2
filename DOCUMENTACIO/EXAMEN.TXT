@@ -40,3 +40,20 @@ git push origin main
 git add .
 git commit -m "Versio 5"
 git push origin main
+
+-- VERSIO 6
+
+git branch (veure totes les branques)
+git branch projecte
+mkdir ESPECIFICACIO
+nano EXAMEN.TXT
+git branch (revisar que esta feta)
+git checkout projecte
+git add .
+git commit -m "Versio 6"
+git push origin main
+
+-- VERSIO 7
+
+
+(no poso els cd ja que no trobo important marcar-ho)
